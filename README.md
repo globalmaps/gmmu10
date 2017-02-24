@@ -9,4 +9,4 @@ Credit: "Global Map of Mauritius © ISCGM/ Ministry of Housing and Lands"
 
 Contact: Ministry of Housing and Lands, Maulitius. 
 
-E-mail: ![email](https://www.iscgm.org/gmd/images/email/mauritius.png)
+E-mail: ![email](email.png)
